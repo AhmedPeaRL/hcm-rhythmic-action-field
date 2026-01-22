@@ -1,0 +1,10 @@
+EXECUTION LIMITS:
+
+
+- No loops
+- No retries
+- No schedulers
+- No background jobs
+
+
+Execution must collapse immediately after occurrence.
